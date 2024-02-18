@@ -1,0 +1,2 @@
+This is an example file created using C programming language.
+You can write any content you want.

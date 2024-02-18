@@ -1,0 +1,9 @@
+Name: sumeet
+Age: 18
+GPA: 90.00
+Name: kiran
+Age: 18
+GPA: 90.00
+Name: suraj
+Age: 19
+GPA: 56.00
